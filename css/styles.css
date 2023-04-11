@@ -1,0 +1,19 @@
+body{
+    background-color: aliceblue;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-width: 4px;/*used to define the size of the dots*/
+    border-color: gray;
+}
+
+h1{
+    color: cadetblue;
+}
+
+h3{
+    color: cadetblue;
+}
